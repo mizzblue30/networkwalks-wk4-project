@@ -1,12 +1,10 @@
 # networkwalks-wk4-project
 Mediroza General Hospital – Web Application Penetration Testing
 
-"Cybersecurity" (https://img.shields.io/badge/Domain-Cybersecurity-blue)
-"Assessment" (https://img.shields.io/badge/Assessment-Week%204-orange)
-"Status" (https://img.shields.io/badge/Status-Completed-success)
-"Platform" (https://img.shields.io/badge/Platform-Kali%20Linux-purple)
-
-
+![Cybersecurity](https://img.shields.io/badge/Domain-Cybersecurity-blue)
+![Assessment](https://img.shields.io/badge/Assessment-Week%204-orange)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![Platform](https://img.shields.io/badge/Platform-Kali%20Linux-purple)
 Project Overview
 
 This project documents an authorized black-box web application penetration testing assessment conducted as part of the Networkwalks cybersecurity internship programme.
